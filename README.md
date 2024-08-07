@@ -4,3 +4,4 @@ Customer Churn prediction means knowing which customers are likely to leave or u
 
 CLICK ON CODE TO GET CODE
 
+![image](https://github.com/user-attachments/assets/49964a05-3fb9-49e7-9e02-114868779fd8)
